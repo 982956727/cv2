@@ -156,7 +156,7 @@ main section > .detail {
 .map .detail dd {
   height: 4px;
   background-color: #ccc;
-  margin: 8px 0px 16 px 0px;
+  margin: 8px 0px 16px 0px;
   border-radius: 3px;
 }
 .map .detail .bar {
